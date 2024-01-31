@@ -4,7 +4,7 @@
    
 2. Open Black Box, go to `Menu > Preferences > Terminal > Theme > Click the folder icon`
 
-3. Select this repository folder
+3. Select this repository folder.
 
 >[!NOTE]
->More Material Theme variant coming soon
+>More Material Theme variant coming soon.
