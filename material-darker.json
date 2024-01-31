@@ -1,0 +1,25 @@
+{
+    "name": "Material Darker",
+    "comment": "Ported for Black Box Color Scheme",
+    "use-theme-colors": false,
+    "foreground-color": "#eeffff",
+    "background-color": "#212121",
+    "palette": [
+        "#000000",
+        "#f07178",
+        "#c3e88d",
+        "#ffcb6b",
+        "#82aaff",
+        "#c792ea",
+        "#89ddff",
+        "#ffffff",
+        "#545454",
+        "#f07178",
+        "#c3e88d",
+        "#ffcb6b",
+        "#82aaff",
+        "#c792ea",
+        "#89ddff",
+        "#ffffff"
+    ]
+}
