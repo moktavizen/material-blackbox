@@ -1,6 +1,6 @@
 # Material Theme Blackbox
 
-**Installation**
+## Installation
 
 1. Run `git clone https://github.com/moktavizen/material-blackbox.git`
    
@@ -8,10 +8,11 @@
 
 3. Select the `themes` folder from this repository.
 
-**Available Variant**
+## Available Variant
 
-1. Material Darker
-![material darker](<images/Screenshot from 2024-01-31 21-24-33.png>)
+### 1. Material Darker
+
+![material darker](images/material-darker-preview.png)
 
 >[!NOTE]
 >More Material Theme variant coming soon.
