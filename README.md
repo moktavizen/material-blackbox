@@ -11,7 +11,7 @@ Material [Black Box](https://gitlab.gnome.org/raggesilver/blackbox) color scheme
 
 ## 🎨 Variants
 
-![material darker](assets/material-blackbox-previews.webp)
+![material darker](image/material-blackbox-previews.webp)
 
 > [!NOTE]
 > High Contrast variants provide background with more contrast.
