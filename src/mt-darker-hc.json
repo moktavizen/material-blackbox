@@ -1,0 +1,25 @@
+{
+    "name": "Material Theme Darker High Contrast",
+    "comment": "Ported for Black Box Color Scheme",
+    "use-theme-colors": false,
+    "foreground-color": "#eeffff",
+    "background-color": "#1a1a1a",
+    "palette": [
+        "#000000",
+        "#f07178",
+        "#c3e88d",
+        "#ffcb6b",
+        "#82aaff",
+        "#c792ea",
+        "#89ddff",
+        "#ffffff",
+        "#4a4a4a",
+        "#f07178",
+        "#c3e88d",
+        "#ffcb6b",
+        "#82aaff",
+        "#c792ea",
+        "#89ddff",
+        "#ffffff"
+    ]
+}

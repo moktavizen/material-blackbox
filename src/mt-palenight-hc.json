@@ -1,9 +1,9 @@
 {
-    "name": "Material Darker",
+    "name": "Material Theme Palenight High Contrast",
     "comment": "Ported for Black Box Color Scheme",
     "use-theme-colors": false,
-    "foreground-color": "#eeffff",
-    "background-color": "#212121",
+    "foreground-color": "#babed8",
+    "background-color": "#1b1e2b",
     "palette": [
         "#000000",
         "#f07178",
@@ -13,7 +13,7 @@
         "#c792ea",
         "#89ddff",
         "#ffffff",
-        "#545454",
+        "#676e95",
         "#f07178",
         "#c3e88d",
         "#ffcb6b",

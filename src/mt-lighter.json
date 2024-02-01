@@ -1,0 +1,25 @@
+{
+    "name": "Material Theme Lighter",
+    "comment": "Ported for Black Box Color Scheme",
+    "use-theme-colors": false,
+    "foreground-color": "#90a4ae",
+    "background-color": "#fafafa",
+    "palette": [
+        "#000000",
+        "#e53935",
+        "#91b859",
+        "#e2931d",
+        "#6182b8",
+        "#9c3eda",
+        "#39adb5",
+        "#ffffff",
+        "#90a4ae",
+        "#e53935",
+        "#91b859",
+        "#e2931d",
+        "#6182b8",
+        "#9c3eda",
+        "#39adb5",
+        "#ffffff"
+    ]
+}

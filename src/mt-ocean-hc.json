@@ -1,0 +1,25 @@
+{
+    "name": "Material Theme Ocean High Contrast",
+    "comment": "Ported for Black Box Color Scheme",
+    "use-theme-colors": false,
+    "foreground-color": "#babed8",
+    "background-color": "#090b10",
+    "palette": [
+        "#000000",
+        "#f07178",
+        "#c3e88d",
+        "#ffcb6b",
+        "#82aaff",
+        "#c792ea",
+        "#89ddff",
+        "#ffffff",
+        "#464b5d",
+        "#f07178",
+        "#c3e88d",
+        "#ffcb6b",
+        "#82aaff",
+        "#c792ea",
+        "#89ddff",
+        "#ffffff"
+    ]
+}

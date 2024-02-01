@@ -1,0 +1,25 @@
+{
+    "name": "Material Theme Deepforest High Contrast",
+    "comment": "Ported for Black Box Color Scheme",
+    "use-theme-colors": false,
+    "foreground-color": "#c2edd3",
+    "background-color": "#101917",
+    "palette": [
+        "#000000",
+        "#f07178",
+        "#c3e88d",
+        "#ffcb6b",
+        "#6fa0de",
+        "#a68dcd",
+        "#74c9de",
+        "#ffffff",
+        "#476352",
+        "#f07178",
+        "#c3e88d",
+        "#ffcb6b",
+        "#6fa0de",
+        "#a68dcd",
+        "#74c9de",
+        "#ffffff"
+    ]
+}
