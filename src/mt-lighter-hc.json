@@ -2,7 +2,7 @@
     "name": "Material Theme Lighter High Contrast",
     "comment": "Ported for Black Box Color Scheme",
     "use-theme-colors": false,
-    "foreground-color": "#90a4ae",
+    "foreground-color": "#627883",
     "background-color": "#ffffff",
     "palette": [
         "#000000",
